@@ -1,7 +1,5 @@
-This is a python hook to validate the Commit Content to have specific pattern in the messsage
+This repo is cloned via BitBucket
 
-Test Commit by Anand on GitHub
-Hello Python
+Earlier this repo was imported to Bit Bucket from GitHub
 
-Test Commit by Anand on BitBucket
-Hello Bit
+Now Trying to push the changes in code to GitHub
